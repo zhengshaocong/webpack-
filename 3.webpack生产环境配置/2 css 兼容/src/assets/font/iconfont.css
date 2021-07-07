@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1624002582120') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-guanfang:before {
+  content: "\e6b0";
+}
+
+.icon-kaifazheshequicon-:before {
+  content: "\e694";
+}
+
+.icon-guanfang1:before {
+  content: "\e638";
+}
+
+.icon-guanfang2:before {
+  content: "\e7d8";
+}
+
