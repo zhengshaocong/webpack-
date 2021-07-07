@@ -38,6 +38,7 @@ module.exports = {
       maxAsyncRequests: 5, // 按需加载时并行加载文件最大值
       maxInitialRequests: 3, // 入口jis最大并行请求数量
 
+      asdadjaskdhaskdakjd: 21233211113232,
       // name: true, // 可以使用命名规则
       automaticNameDelimiter: '~', // 命名规则 命名链接符
       cacheGroups: { // 命名规则 分割chunk的组
