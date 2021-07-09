@@ -1,1 +1,7 @@
 /node_modules/*
+[user]
+    email = 648303252@qq.com
+    name = zhengshaocong
+
+[credential]
+    helper=store
